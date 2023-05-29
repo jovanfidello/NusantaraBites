@@ -1,0 +1,18 @@
+@import "../../App.scss";
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.cat-description{
+    border-radius: 4px;
+    background: #f9f2d7;
+    box-shadow: inset 5px 5px 10px #c5bfaa,
+                inset -5px -5px 10px #ffffff;
+    h2 {
+        font-family: 'Indie Flower', cursive;
+        text-transform: uppercase;
+    }
+    p{
+        margin-top: 12px;
+        font-weight: bolder;
+    }
+    
+}
