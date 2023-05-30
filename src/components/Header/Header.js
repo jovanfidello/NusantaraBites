@@ -11,7 +11,7 @@ const Header = () => {
         <SearchForm />
         <h1 className="text-white header-title ls-2">
           {" "}
-          Mamamia Lezattos {" "}
+          Taste of Delicacies {" "}
         </h1>{" "}
         <p className="text-uppercase text-white my-3 ls-1">
           {" "}
